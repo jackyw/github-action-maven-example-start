@@ -66,7 +66,7 @@
   <repository>
     <id>github</id>
     <name>MyMavenExmaple</name>
-    <url>https://maven.pkg.github.com/jackyw/MyMavenExample</url> 
+    <url>https://maven.pkg.github.com/jackyw/github-action-maven-example-start</url> 
   </repository>
 </distributionManagement>
 
