@@ -60,6 +60,15 @@
             </plugin>
         </plugins>
     </build>
+         
+    <distributionManagement>
+  
+  <repository>
+    <id>github</id>
+    <name>MyMavenExmaple</name>
+    <url>https://maven.pkg.github.com/jackyw/MyMavenExample</url> 
+  </repository>
+</distributionManagement>
 
     <dependencies>
 
